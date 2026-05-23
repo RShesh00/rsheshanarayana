@@ -146,6 +146,10 @@ ul.task-list input[type="checkbox"] {
 
   .col {
     padding-bottom: 1rem;
+    @media (min-width: 768px) {
+      flex: 0 0 50%;
+      max-width: 50%;
+    }
   }
 
   .grid-sizer,
