@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Paper published in *J. Chem. Inf. Model.* (Vol. 65, No. 20)! Our curriculum learning framework for Transformer-based retrosynthesis prediction is out — and it's a **Supplementary Journal Cover**!
+🎉 Paper published in *J. Chem. Inf. Model.* on curriculum learning for retrosynthesis — **Supplementary Journal Cover**!

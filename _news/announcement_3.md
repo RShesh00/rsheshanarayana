@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Review paper published in *Digital Discovery*! Our cross-domain survey of molecular representation learning — spanning GNNs, transformers, diffusion models, and contrastive learning — is out as the **Journal Inside Front Cover**!
+🎉 Review paper on molecular representation learning published in *Digital Discovery* — **Journal Inside Front Cover**!

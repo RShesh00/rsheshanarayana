@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Paper published in *Advanced Science*! Our scalability analysis of knowledge distillation for molecular property prediction is out — selected as a **Journal Frontispiece**!
+🎉 Paper on knowledge distillation for molecular property prediction published in *Advanced Science* — **Journal Frontispiece**!

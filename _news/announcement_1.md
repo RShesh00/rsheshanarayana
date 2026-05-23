@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 New paper submitted to *Digital Discovery*! Check out our work on harnessing homolytic bond energetics to steer inverse radical design via BDE-conditioned generative transformers.
+🎉 New paper submitted to *Digital Discovery* on harnessing homolytic bond energetics for inverse radical design!
