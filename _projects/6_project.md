@@ -3,6 +3,7 @@ layout: page
 title: "Probing Ion Effects In Nanoconfined Aqueous Electrolytes: A Molecular Dynamics Study Using Neural Network Potentials"
 description: DFT-accurate machine learning potentials for molecular dynamics simulations of ion behavior in confined aqueous electrolytes
 importance: 6
+img: assets/img/projects/NNP.png
 ---
 
 Aqueous electrolytes under hydrophobic graphene confinements exhibit anomalous structural and dynamic properties with important implications in water desalination and energy storage. Although classical force fields and ab initio methods have allowed for considerable progress in qualitatively understanding the cause for such anomalies, the former is often inaccurate due to inadequate treatment of interatomic interactions within confinement, and the latter lacks speed and scalability to large systems.

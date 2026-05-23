@@ -3,6 +3,7 @@ layout: page
 title: "Knowledge Distillation for Molecular Property Prediction: A Scalability Analysis"
 description: Compressing large graph neural networks into efficient student models without sacrificing predictive accuracy
 importance: 2
+img: assets/img/projects/KD.png
 related_publications: true
 ---
 
