@@ -2,32 +2,29 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  PhD Researcher, <a href='https://www.systemseng.cornell.edu/'>Systems Engineering</a> · Cornell University
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-#  more_info: >
-#    <p>Olin hall, Cornell University</p>
-#    <p>Ithaca, NY 14850</p>
+  image_circular: false
+  more_info: >
+    <p>Olin Hall, Cornell University</p>
+    <p>Ithaca, NY 14850</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD researcher in the [Systems Engineering](https://www.systemseng.cornell.edu/) program at Cornell University, advised by [Prof. Fengqi You](https://you.cheme.cornell.edu/). My research sits at the intersection of machine learning and computational chemistry, with a focus on **sustainable molecular design** and **PFAS remediation**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I develop generative models, scalable ML frameworks, and molecular simulation tools to address challenges in sustainability and materials science. Recent projects include a bond dissociation energy (BDE)-conditioned transformer for inverse radical design and knowledge distillation methods for molecular property prediction. I hold an MS in Chemical Engineering from Cornell University and a BTech in Polymer Science from IIT Roorkee (class rank 2).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My work has appeared in *Advanced Science*, *Nature Communications*, *Digital Discovery*, and *J. Chem. Inf. Model.*, with multiple journal covers and an Editor's Pick.
