@@ -26,7 +26,7 @@ cv:
         location: Ithaca, NY
         url: https://www.cornell.edu/
         area: Systems Engineering
-        studyType: PhD
+        studyType: Doctor of Philosophy
         start_date: 2024-08
         end_date: Present
         highlights:
@@ -37,7 +37,7 @@ cv:
         location: Ithaca, NY
         url: https://www.cornell.edu/
         area: Chemical Engineering
-        studyType: MS
+        studyType: Master of Science
         start_date: 2022-08
         end_date: 2024-05
         highlights:
@@ -48,7 +48,7 @@ cv:
         location: Roorkee, India
         url: https://www.iitr.ac.in/
         area: "Polymer Science; Minor: Applied Mathematics"
-        studyType: BTech
+        studyType: Bachelor of Technology
         start_date: 2018-08
         end_date: 2022-05
         highlights:
