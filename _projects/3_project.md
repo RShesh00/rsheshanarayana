@@ -11,6 +11,6 @@ Molecular representation learning has transformed computational chemistry by rep
 
 The review critically evaluates physically consistent embeddings, multi-modal fusion strategies, and generalization limits, and charts open frontiers including molecular foundation models, equivariant architectures, and low-data regimes.
 
-*Published in **Digital Discovery** (2025) - Journal Inside Front Cover.*
+*Published (2025) - Journal Inside Front Cover.*
 
 {% cite sheshanarayana2025mrl %}
