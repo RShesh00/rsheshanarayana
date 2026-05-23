@@ -11,6 +11,6 @@ Direct thermal liquefaction converts solid biomass into liquid fuel precursors, 
 
 Key findings: distillate forms nearly 2× faster than heavy residue; secondary cracking reactions are negligible; and adding 20 wt% water more than doubles primary reaction rates, with a guaiacol:water ratio of 8:1 giving maximum overall conversion. The model provides practical guidance for optimizing reactor conditions in biomass-to-liquid processes.
 
-*Published in **Biomass Conversion and Biorefinery** (2025, Vol. 15, No. 17). BTech Thesis — **Best Thesis Award**, IIT Roorkee.*
+*Published in **Biomass Conversion and Biorefinery** (2025, Vol. 15, No. 17). BTech Thesis - **Best Thesis Award**, IIT Roorkee.*
 
 {% cite sheshanarayana2025pinewood %}

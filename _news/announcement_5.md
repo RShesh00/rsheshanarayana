@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 New preprint on ChemRxiv — data-driven CO₂ hydrogenation reaction networks, under review at *Nature Communications*!
+🎉 New preprint on ChemRxiv - data-driven CO₂ hydrogenation reaction networks, under review at *Nature Communications*!
