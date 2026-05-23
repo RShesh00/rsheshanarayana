@@ -398,60 +398,67 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/rsheshanarayana/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-paper-published-in-biomass-conversion-and-biorefinery-our-kinetic-model-for-the-direct-thermal-liquefaction-of-pine-wood-originally-my-btech-thesis-at-iit-roorkee-is-officially-out",
+          title: '🎉 Paper published in Biomass Conversion and Biorefinery! Our kinetic model for the...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-new-preprint-on-chemrxiv-our-data-driven-study-of-massive-co-hydrogenation-reaction-networks-revealing-9-389-elementary-reactions-and-new-catalytic-pathways-is-under-review-at-nature-communications",
+          title: '🎉 New preprint on ChemRxiv! Our data-driven study of massive CO₂ hydrogenation reaction...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/rsheshanarayana/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-paper-published-in-advanced-science-our-scalability-analysis-of-knowledge-distillation-for-molecular-property-prediction-is-out-selected-as-a-journal-frontispiece",
+          title: '🎉 Paper published in Advanced Science! Our scalability analysis of knowledge distillation for...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "news-review-paper-published-in-digital-discovery-our-cross-domain-survey-of-molecular-representation-learning-spanning-gnns-transformers-diffusion-models-and-contrastive-learning-is-out-as-the-journal-inside-front-cover",
+          title: '🎉 Review paper published in Digital Discovery! Our cross-domain survey of molecular representation...',
+          description: "",
+          section: "News",},{id: "news-paper-published-in-j-chem-inf-model-vol-65-no-20-our-curriculum-learning-framework-for-transformer-based-retrosynthesis-prediction-is-out-and-it-s-a-supplementary-journal-cover",
+          title: '🎉 Paper published in J. Chem. Inf. Model. (Vol. 65, No. 20)! Our...',
+          description: "",
+          section: "News",},{id: "news-new-paper-submitted-to-digital-discovery-check-out-our-work-on-harnessing-homolytic-bond-energetics-to-steer-inverse-radical-design-via-bde-conditioned-generative-transformers",
+          title: '🎉 New paper submitted to Digital Discovery! Check out our work on harnessing...',
+          description: "",
+          section: "News",},{id: "projects-inverse-radical-design-via-bde-conditioned-generative-models",
+          title: 'Inverse Radical Design via BDE-Conditioned Generative Models',
+          description: "Treating bond dissociation energy as a continuous generative coordinate to steer radical molecular design",
           section: "Projects",handler: () => {
               window.location.href = "/rsheshanarayana/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-knowledge-distillation-for-molecular-property-prediction",
+          title: 'Knowledge Distillation for Molecular Property Prediction',
+          description: "Compressing large graph neural networks into efficient student models without sacrificing predictive accuracy",
           section: "Projects",handler: () => {
               window.location.href = "/rsheshanarayana/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-molecular-representation-learning-a-cross-domain-survey",
+          title: 'Molecular Representation Learning — A Cross-Domain Survey',
+          description: "A comprehensive review of deep learning-based molecular representations spanning GNNs, transformers, diffusion models, and contrastive learning",
           section: "Projects",handler: () => {
               window.location.href = "/rsheshanarayana/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-curriculum-learning-for-transformer-based-retrosynthesis",
+          title: 'Curriculum Learning for Transformer-Based Retrosynthesis',
+          description: "Reshaping reaction prediction by controlling training difficulty with curriculum learning",
           section: "Projects",handler: () => {
               window.location.href = "/rsheshanarayana/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-data-driven-co-hydrogenation-reaction-networks",
+          title: 'Data-Driven CO₂ Hydrogenation Reaction Networks',
+          description: "Automated discovery of catalytic pathways via massive DFT-computed reaction networks and ML-predicted activation barriers",
           section: "Projects",handler: () => {
               window.location.href = "/rsheshanarayana/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-neural-network-potentials-for-nanoconfined-electrolytes",
+          title: 'Neural Network Potentials for Nanoconfined Electrolytes',
+          description: "DFT-accurate machine learning potentials for molecular dynamics simulations of ion behavior in confined aqueous electrolytes",
           section: "Projects",handler: () => {
               window.location.href = "/rsheshanarayana/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-machine-learning-for-nanoporous-graphene-design",
+          title: 'Machine Learning for Nanoporous Graphene Design',
+          description: "Predicting nanopore formation probability and time in graphene using a two-stage ML framework on kinetic Monte Carlo data",
           section: "Projects",handler: () => {
               window.location.href = "/rsheshanarayana/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-attention-based-vehicle-smoke-detection",
+          title: 'Attention-Based Vehicle Smoke Detection',
+          description: "Boosting surveillance-based vehicular emission detection with transformer attention and synthetic data augmentation",
           section: "Projects",handler: () => {
               window.location.href = "/rsheshanarayana/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-kinetic-modeling-of-pine-wood-thermal-liquefaction",
+          title: 'Kinetic Modeling of Pine Wood Thermal Liquefaction',
+          description: "First-principles kinetic model for the direct thermal liquefaction of lignocellulosic biomass",
           section: "Projects",handler: () => {
               window.location.href = "/rsheshanarayana/projects/9_project/";
             },},{id: "teachings-data-science-fundamentals",
