@@ -10,4 +10,4 @@ Classical force fields fail to capture the complex, ion-specific behavior of aqu
 
 Simulations revealed stark ion-specific behavior: K⁺ exhibited 3× stronger interfacial adsorption and 2× faster diffusion than Na⁺ in confined geometries - trends entirely absent in classical force fields. These findings highlight the necessity of quantum-accurate potentials for understanding nanoconfinement effects.
 
-*MS Thesis, Cornell University (2022–2024). Advisor: Dr. Shuwen Yue.*
+*MS Thesis, Cornell University (2022-2024). Advisor: Dr. Shuwen Yue.*

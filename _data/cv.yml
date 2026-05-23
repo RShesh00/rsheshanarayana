@@ -63,7 +63,7 @@ cv:
         start_date: 2024-08
         end_date: Present
         highlights:
-          - Designed a BDE-conditioned transformer for generative molecular design, achieving distributional control over radical bond strengths with 81–94% validity and 84–92% novelty across BDE targets.
+          - Designed a BDE-conditioned transformer for generative molecular design, achieving distributional control over radical bond strengths with 81-94% validity and 84-92% novelty across BDE targets.
           - Achieved up to 90% R² improvement in molecular property prediction by distilling SchNet and DimeNet++ into 2× smaller student GNNs across QM9, ESOL, and FreeSolv datasets.
 
       - company: Department of Chemical Engineering, Cornell University
