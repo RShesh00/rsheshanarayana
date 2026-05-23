@@ -416,49 +416,49 @@ ninja.data = [{
           section: "News",},{id: "news-rahul-passed-his-q-exam",
           title: '🎉 Rahul passed his Q-exam!',
           description: "",
-          section: "News",},{id: "projects-inverse-radical-design-via-bde-conditioned-generative-models",
-          title: 'Inverse Radical Design via BDE-Conditioned Generative Models',
+          section: "News",},{id: "projects-harnessing-homolytic-bond-energetics-to-steer-inverse-radical-design",
+          title: 'Harnessing homolytic bond energetics to steer inverse radical design',
           description: "Treating bond dissociation energy as a continuous generative coordinate to steer radical molecular design",
           section: "Projects",handler: () => {
               window.location.href = "/rsheshanarayana/projects/1_project/";
-            },},{id: "projects-knowledge-distillation-for-molecular-property-prediction",
-          title: 'Knowledge Distillation for Molecular Property Prediction',
+            },},{id: "projects-knowledge-distillation-for-molecular-property-prediction-a-scalability-analysis",
+          title: 'Knowledge Distillation for Molecular Property Prediction: A Scalability Analysis',
           description: "Compressing large graph neural networks into efficient student models without sacrificing predictive accuracy",
           section: "Projects",handler: () => {
               window.location.href = "/rsheshanarayana/projects/2_project/";
-            },},{id: "projects-molecular-representation-learning-a-cross-domain-survey",
-          title: 'Molecular Representation Learning - A Cross-Domain Survey',
+            },},{id: "projects-molecular-representation-learning-cross-domain-foundations-and-future-frontiers",
+          title: 'Molecular Representation Learning: Cross-domain Foundations and Future Frontiers',
           description: "A comprehensive review of deep learning-based molecular representations spanning GNNs, transformers, diffusion models, and contrastive learning",
           section: "Projects",handler: () => {
               window.location.href = "/rsheshanarayana/projects/3_project/";
-            },},{id: "projects-curriculum-learning-for-transformer-based-retrosynthesis",
-          title: 'Curriculum Learning for Transformer-Based Retrosynthesis',
-          description: "Reshaping reaction prediction by controlling training difficulty with curriculum learning",
+            },},{id: "projects-rethinking-retrosynthesis-curriculum-learning-reshapes-transformer-based-small-molecule-reaction-prediction",
+          title: 'Rethinking Retrosynthesis: Curriculum Learning Reshapes Transformer-Based Small-Molecule Reaction Prediction',
+          description: "Reshaping reaction prediction by controlling training difficulty with a chemically informed curriculum learning framework",
           section: "Projects",handler: () => {
               window.location.href = "/rsheshanarayana/projects/4_project/";
-            },},{id: "projects-data-driven-co-hydrogenation-reaction-networks",
-          title: 'Data-Driven CO₂ Hydrogenation Reaction Networks',
-          description: "Automated discovery of catalytic pathways via massive DFT-computed reaction networks and ML-predicted activation barriers",
+            },},{id: "projects-data-driven-massive-reaction-networks-reveal-new-pathways-underlying-catalytic-co-hydrogenation",
+          title: 'Data-driven massive reaction networks reveal new pathways underlying catalytic CO₂ hydrogenation',
+          description: "Automated discovery of catalytic pathways via DFT, ML-predicted barriers, and human-intelligence-inspired reaction enumeration",
           section: "Projects",handler: () => {
               window.location.href = "/rsheshanarayana/projects/5_project/";
-            },},{id: "projects-neural-network-potentials-for-nanoconfined-electrolytes",
-          title: 'Neural Network Potentials for Nanoconfined Electrolytes',
+            },},{id: "projects-probing-ion-effects-in-nanoconfined-aqueous-electrolytes-a-molecular-dynamics-study-using-neural-network-potentials",
+          title: 'Probing Ion Effects In Nanoconfined Aqueous Electrolytes: A Molecular Dynamics Study Using Neural...',
           description: "DFT-accurate machine learning potentials for molecular dynamics simulations of ion behavior in confined aqueous electrolytes",
           section: "Projects",handler: () => {
               window.location.href = "/rsheshanarayana/projects/6_project/";
-            },},{id: "projects-machine-learning-for-nanoporous-graphene-design",
-          title: 'Machine Learning for Nanoporous Graphene Design',
+            },},{id: "projects-tailoring-nanoporous-graphene-via-machine-learning-predicting-probabilities-and-formation-times-of-arbitrary-nanopore-shapes",
+          title: 'Tailoring nanoporous graphene via machine learning: Predicting probabilities and formation times of arbitrary...',
           description: "Predicting nanopore formation probability and time in graphene using a two-stage ML framework on kinetic Monte Carlo data",
           section: "Projects",handler: () => {
               window.location.href = "/rsheshanarayana/projects/7_project/";
-            },},{id: "projects-attention-based-vehicle-smoke-detection",
-          title: 'Attention-Based Vehicle Smoke Detection',
+            },},{id: "projects-vehicle-smoke-synthesis-and-attention-based-deep-approach-for-vehicle-smoke-detection",
+          title: 'Vehicle Smoke Synthesis and Attention-based Deep Approach for Vehicle Smoke Detection',
           description: "Boosting surveillance-based vehicular emission detection with transformer attention and synthetic data augmentation",
           section: "Projects",handler: () => {
               window.location.href = "/rsheshanarayana/projects/8_project/";
-            },},{id: "projects-kinetic-modeling-of-pine-wood-thermal-liquefaction",
-          title: 'Kinetic Modeling of Pine Wood Thermal Liquefaction',
-          description: "First-principles kinetic model for the direct thermal liquefaction of lignocellulosic biomass",
+            },},{id: "projects-a-kinetic-model-for-the-direct-thermal-liquefaction-of-pine-wood",
+          title: 'A kinetic model for the direct thermal liquefaction of pine wood',
+          description: "Reaction network and quantitative kinetic model for lignocellulosic biomass conversion via direct thermal liquefaction",
           section: "Projects",handler: () => {
               window.location.href = "/rsheshanarayana/projects/9_project/";
             },},{id: "teachings-data-science-fundamentals",
