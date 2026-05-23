@@ -1,16 +1,15 @@
 ---
 layout: page
-title: Knowledge Distillation for Molecular Property Prediction
+title: "Knowledge Distillation for Molecular Property Prediction: A Scalability Analysis"
 description: Compressing large graph neural networks into efficient student models without sacrificing predictive accuracy
 importance: 2
-category: Molecular Design & ML
 related_publications: true
 ---
 
-Scaling molecular property prediction to large datasets demands both accuracy and computational efficiency. This project investigates **knowledge distillation (KD)** - transferring rich embeddings from large teacher GNNs (SchNet, DimeNet++) into 2× smaller student networks - across domain-specific and cross-domain molecular property prediction tasks.
+Knowledge distillation (KD) is a powerful model compression technique that transfers knowledge from complex teacher models to compact student models, reducing computational costs while preserving predictive accuracy. This study investigates KD's efficacy in molecular property prediction across domain-specific and cross-domain tasks, leveraging state-of-the-art graph neural networks (SchNet, DimeNet++, and TensorNet).
 
-Across benchmarks including QM9, ESOL, and FreeSolv, distilled student models achieve up to **90% R² improvement** relative to training from scratch, demonstrating that teacher embeddings carry transferable structural priors. The work provides a scalability analysis with implications for cheminformatics, drug discovery, and materials design.
+In the domain-specific setting, KD improved regression performance across diverse quantum mechanical properties in the QM9 dataset, with DimeNet++ student models achieving up to a **90% improvement** in R² compared to non-KD baselines. Notably, in certain cases, smaller student models achieved comparable or even superior R² improvements while being **2× smaller**, highlighting KD's ability to enhance efficiency without sacrificing predictive performance.
 
-*Published in **Advanced Science** (2025) - Journal Frontispiece.*
+Cross-domain evaluations further demonstrated KD's adaptability, where embeddings from QM9-trained teacher models enhanced predictions for ESOL (logS) and FreeSolv (deltaGhyd), with SchNet exhibiting the highest gains of approximately **65% in logS predictions**. Embedding analysis revealed substantial student-teacher alignment gains, with the relative shift in cosine similarity distribution peaks reaching up to 1.0 across student models. These findings highlight KD as a robust strategy for enhancing molecular representation learning, with implications for cheminformatics, materials science, and drug discovery.
 
 {% cite sheshanarayana2025kd %}

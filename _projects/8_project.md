@@ -1,16 +1,15 @@
 ---
 layout: page
-title: Attention-Based Vehicle Smoke Detection
+title: "Vehicle Smoke Synthesis and Attention-based Deep Approach for Vehicle Smoke Detection"
 description: Boosting surveillance-based vehicular emission detection with transformer attention and synthetic data augmentation
 importance: 8
-category: Earlier Research
 related_publications: true
 ---
 
-Detecting excessive vehicular smoke from surveillance cameras is hampered by scarce labeled data and low visual contrast. This project tackled both problems: a **dual-level synthetic smoke generation pipeline** (mask patterns + filtering) increased training data coverage by 5×, while a custom **λ-attention transformer head** grafted onto a YOLOv5 backbone boosted detection accuracy by up to 12% mAP across three public datasets.
+Third-world countries are suffering from extreme vehicular air pollution due to the dominating number of fossil fuel-driven vehicles on the road. Therefore, in these countries, automatic surveillance systems are in high demand for close monitoring to identify and penalize vehicles emitting excessive smoke. In recent times, deep learning-based computer vision systems have been rigorously applied to this problem, but their accuracy strongly depends on the number of training images taken under various imaging conditions. However, very few publicly available vehicle smoke datasets exist, and capturing on-road videos to build datasets is another challenging and time-consuming task.
 
-The work demonstrates that targeted architectural attention and domain-specific data synthesis can substantially close the gap between lab performance and real-world deployment.
+To aid and enhance vehicular smoke monitoring systems, this work proposes a **holistic dual-level framework** for dataset enhancement via smoke generation along with a transformer network for efficient identification. A realistic vehicle smoke generation algorithm using a range of mask patterns and filtering was created, which enables training deep neural models by generating sufficient synthetic data - **increasing training coverage by 5×**.
 
-*Published in **IEEE Transactions on Industry Applications** (2022, Vol. 59, No. 2).*
+A **lambda-attention transformer head** was also proposed on the YOLOv5 backbone, which efficiently identifies the smoke region and the smoky vehicle from the image frame simultaneously. The lambda-attention-based detection network outperforms other state-of-the-art techniques, boosting detection accuracy by up to **12% mAP across three public benchmark datasets**.
 
 {% cite kundu2022smoke %}

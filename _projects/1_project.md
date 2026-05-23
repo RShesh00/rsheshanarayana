@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Inverse Radical Design via BDE-Conditioned Generative Models
+title: "Harnessing homolytic bond energetics to steer inverse radical design"
 description: Treating bond dissociation energy as a continuous generative coordinate to steer radical molecular design
 importance: 1
-category: Molecular Design & ML
 related_publications: true
 ---
 

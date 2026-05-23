@@ -1,16 +1,17 @@
 ---
 layout: page
-title: Kinetic Modeling of Pine Wood Thermal Liquefaction
-description: First-principles kinetic model for the direct thermal liquefaction of lignocellulosic biomass
+title: "A kinetic model for the direct thermal liquefaction of rice husk"
+description: Reaction network and quantitative kinetic model for bio-oil production from rice husk via direct thermal liquefaction
 importance: 9
-category: Earlier Research
 related_publications: true
 ---
 
-Direct thermal liquefaction converts solid biomass into liquid fuel precursors, but the reaction network governing product distribution is poorly understood. This BTech thesis project developed a **lumped kinetic model** for pine wood liquefaction, tracking the formation of three primary products: vacuum residue, distillate, and gases.
+Rice husk, a by-product of rice mills, is abundantly available at low cost and holds the potential for bio-oil and biogenic silica production. This research explores the **direct thermal liquefaction of rice husk** using guaiacol as a solvent at temperatures of 240°C, 250°C, and 260°C, with reaction times of up to 120 min. The results showed that liquid yields increased with time and temperature, reaching a maximum of approximately **90 wt.% (ash-free basis)**.
 
-Key findings: distillate forms nearly 2× faster than heavy residue; secondary cracking reactions are negligible; and adding 20 wt% water more than doubles primary reaction rates, with a guaiacol:water ratio of 8:1 giving maximum overall conversion. The model provides practical guidance for optimizing reactor conditions in biomass-to-liquid processes.
+These findings enabled the creation of a reaction network for the direct thermal liquefaction of rice husk, which was further used to develop a **quantitative kinetic model** with parameters estimated from experimental data at different temperatures and times. The kinetic model revealed that at 240°C, the liquid formation pathway from rice husk was about **seventy times faster** than the gas formation pathway, decreasing to fourteen times faster at 260°C, indicating that the gas formation pathway is more enhanced with increasing temperature compared to the route for liquid formation.
 
-*Published in **Biomass Conversion and Biorefinery** (2025, Vol. 15, No. 17). BTech Thesis - **Best Thesis Award**, IIT Roorkee.*
+The activation energies for the liquid and gas formation pathways from rice husk were determined to be **112 and 295 kJ/mol**, respectively. This study provides valuable insights for optimizing process parameters to maximize bio-oil yield.
+
+*BTech Thesis, IIT Roorkee (2022) - Best Bachelor's Thesis Award. Advisor: Dr. Shushil Kumar.*
 
 {% cite sheshanarayana2025pinewood %}
