@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 New paper submitted to *Digital Discovery* on harnessing homolytic bond energetics for inverse radical design!
+🎉 New paper submitted (under review) on harnessing homolytic bond energetics for inverse radical design!
