@@ -37,7 +37,10 @@ layout: default
         {% endif %}
         {% if page.social %}
           <div class="social">
-            <div class="contact-icons">{% social_links %}</div>
+            <div class="contact-icons">
+              {% social_links %}
+              <a href="https://www.kaggle.com/ra7967" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-kaggle"></i></a>
+            </div>
           </div>
         {% endif %}
       </div>
