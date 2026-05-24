@@ -27,4 +27,4 @@ I am a PhD researcher in the [Systems Engineering](https://www.systemseng.cornel
 
 I develop generative models, scalable ML frameworks, and molecular simulation tools to address challenges in sustainability and materials science. Recent projects include a bond dissociation energy (BDE)-conditioned transformer for inverse radical design and knowledge distillation methods for molecular property prediction. I hold an MS in Chemical Engineering from Cornell University and a BTech in Polymer Science from IIT Roorkee (class rank 2).
 
-My work has appeared in *Advanced Science*, *Nature Communications*, *J. Chem. Inf. Model.*, and other leading journals, with multiple journal covers and an Editor's Pick.
+My work has appeared in *Advanced Science*, *Nature Communications*, *J. Chem. Inf. Model.*, and other leading journals, with multiple journal covers and an Editor's Pick. See my [publications](/publications/) and [projects](/projects/) for more.
