@@ -16,4 +16,6 @@ Applied across three transformer-based architectures - ChemBERTa + DistilGPT2, R
 
 These improvements are achieved without auxiliary labels, templates, or reaction class supervision. Looking forward, this CL framework may aid retrosynthetic route planning for pharmaceutical intermediates, catalysts, polymers, and functional materials.
 
+*Featured as a [Supplementary Journal Cover](https://pubs.acs.org/cms/10.1021/jcisd8.2025.65.issue-20/asset/jcisd8.2025.65.issue-20.xlargecover-3.jpg) in JCIM, Volume 65, Issue 20 (2025).*
+
 {% cite sheshanarayana2025retrosynthesis %}

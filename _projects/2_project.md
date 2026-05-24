@@ -14,4 +14,6 @@ In the domain-specific setting, KD improved regression performance across divers
 
 Cross-domain evaluations further demonstrated KD's adaptability, where embeddings from QM9-trained teacher models enhanced predictions for ESOL ($$\log S$$) and FreeSolv ($$\Delta G_\text{hyd}$$), with SchNet exhibiting the highest gains of approximately **65% in $$\log S$$ predictions**. Embedding analysis revealed substantial student-teacher alignment gains, with the relative shift in cosine similarity distribution peaks reaching up to 1.0 across student models. These findings highlight KD as a robust strategy for enhancing molecular representation learning, with implications for cheminformatics, materials science, and drug discovery.
 
+*Featured as a [Frontispiece](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/advs.202570174) in Advanced Science (2025).*
+
 {% cite sheshanarayana2025kd %}
