@@ -3,7 +3,7 @@ layout: page
 title: "Data-driven massive reaction networks reveal new pathways underlying catalytic CO₂ hydrogenation"
 description: Automated discovery of catalytic pathways via DFT, ML-predicted barriers, and human-intelligence-inspired reaction enumeration
 importance: 5
-year: 2025
+year: 2026
 img: assets/img/projects/NatComm.png
 related_publications: true
 ---
