@@ -7,27 +7,27 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/rsheshanarayana/";
+      window.location.href = "/";
     },
   },{id: "nav-publications",
           title: "publications",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/rsheshanarayana/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-projects",
           title: "projects",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/rsheshanarayana/projects/";
+            window.location.href = "/projects/";
           },
         },{id: "nav-cv",
           title: "CV",
           description: "PhD Researcher in Systems Engineering at Cornell University.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/rsheshanarayana/cv/";
+            window.location.href = "/cv/";
           },
         },];

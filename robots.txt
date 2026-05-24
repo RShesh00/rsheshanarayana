@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://RShesh00.github.io/rsheshanarayana/sitemap.xml
+Sitemap: https://rsheshanarayana.com/sitemap.xml
