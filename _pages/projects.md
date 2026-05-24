@@ -15,7 +15,7 @@ horizontal: false
 {% assign all_years = sorted_projects | map: "year" | uniq | sort | reverse %}
 
 {% for year in all_years %}
-  <h2 class="category">{{ year }}</h2>
+  <h2 class="year">{{ year }}</h2>
   <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
       {% if project.year == year %}
