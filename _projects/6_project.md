@@ -3,6 +3,7 @@ layout: page
 title: "Probing Ion Effects In Nanoconfined Aqueous Electrolytes: A Molecular Dynamics Study Using Neural Network Potentials"
 description: DFT-accurate machine learning potentials for molecular dynamics simulations of ion behavior in confined aqueous electrolytes
 importance: 6
+year: 2024
 img: assets/img/projects/NNP.png
 related_publications: true
 ---

@@ -3,6 +3,7 @@ layout: page
 title: "A kinetic model for the direct thermal liquefaction of pine wood"
 description: Reaction network and quantitative kinetic model for lignocellulosic biomass conversion via direct thermal liquefaction
 importance: 9
+year: 2025
 img: assets/img/projects/pine_wood.png
 related_publications: true
 ---

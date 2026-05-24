@@ -3,6 +3,7 @@ layout: page
 title: "Tailoring nanoporous graphene via machine learning: Predicting probabilities and formation times of arbitrary nanopore shapes"
 description: Predicting nanopore formation probability and time in graphene using a two-stage ML framework on kinetic Monte Carlo data
 importance: 7
+year: 2022
 img: assets/img/projects/NanoporesML.png
 related_publications: true
 ---

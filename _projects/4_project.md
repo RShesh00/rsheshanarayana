@@ -3,6 +3,7 @@ layout: page
 title: "Rethinking Retrosynthesis: Curriculum Learning Reshapes Transformer-Based Small-Molecule Reaction Prediction"
 description: Reshaping reaction prediction by controlling training difficulty with a chemically informed curriculum learning framework
 importance: 4
+year: 2025
 img: assets/img/projects/JCIM.png
 related_publications: true
 ---

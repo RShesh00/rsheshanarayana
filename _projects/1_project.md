@@ -3,6 +3,7 @@ layout: page
 title: "Harnessing homolytic bond energetics to steer inverse radical design"
 description: Treating bond dissociation energy as a continuous generative coordinate to steer radical molecular design
 importance: 1
+year: 2026
 img: assets/img/projects/BDE.png
 related_publications: true
 ---

@@ -3,6 +3,7 @@ layout: page
 title: "Vehicle Smoke Synthesis and Attention-based Deep Approach for Vehicle Smoke Detection"
 description: Boosting surveillance-based vehicular emission detection with transformer attention and synthetic data augmentation
 importance: 8
+year: 2022
 img: assets/img/projects/Vehicle.png
 related_publications: true
 ---

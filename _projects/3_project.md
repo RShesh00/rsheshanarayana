@@ -3,6 +3,7 @@ layout: page
 title: "Molecular Representation Learning: Cross-domain Foundations and Future Frontiers"
 description: A comprehensive review of deep learning-based molecular representations spanning GNNs, transformers, diffusion models, and contrastive learning
 importance: 3
+year: 2025
 img: assets/img/projects/RepLearning.png
 related_publications: true
 ---
