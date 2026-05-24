@@ -14,7 +14,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: machine learning, molecular design, computational chemistry, PFAS, Cornell University, academic website
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: # no favicon
+icon: projects/website_icon.png # favicon from assets/img/
 
 url: https://RShesh00.github.io # the base hostname & protocol for your site
 baseurl: /rsheshanarayana # the subpath of your site, e.g. /blog/. Leave blank for root
