@@ -6,8 +6,7 @@ title: Rahul Sheshanarayana  # the website title (if blank, full name will be us
 first_name: Rahul
 middle_name:
 last_name: Sheshanarayana
-contact_note: >
-  The best way to reach me is by email.
+contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD researcher at Cornell University focused on sustainable molecular design, generative ML models, and PFAS remediation.
 footer_text: >
