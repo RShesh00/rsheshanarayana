@@ -9,9 +9,7 @@ last_name: Sheshanarayana
 contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD researcher at Cornell University focused on sustainable molecular design, generative ML models, and PFAS remediation.
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+footer_text:
 keywords: machine learning, molecular design, computational chemistry, PFAS, Cornell University, academic website
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: projects/website_icon.png # favicon from assets/img/
