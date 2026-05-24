@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Rahul passed his Q-exam!
+🎉 Rahul passed his Q-exam [PhD qualifying exam]!
