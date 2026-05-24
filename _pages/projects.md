@@ -12,13 +12,15 @@ horizontal: false
 <div class="projects">
 
 {% assign sorted_projects = site.projects | sort: "importance" %}
-{% assign grouped = sorted_projects | group_by: "year" | sort: "name" | reverse %}
+{% assign all_years = sorted_projects | map: "year" | uniq | sort | reverse %}
 
-{% for group in grouped %}
-  <h2 class="category">{{ group.name }}</h2>
+{% for year in all_years %}
+  <h2 class="category">{{ year }}</h2>
   <div class="row row-cols-1 row-cols-md-2">
-    {% for project in group.items %}
-      {% include projects.liquid %}
+    {% for project in sorted_projects %}
+      {% if project.year == year %}
+        {% include projects.liquid %}
+      {% endif %}
     {% endfor %}
   </div>
 {% endfor %}
