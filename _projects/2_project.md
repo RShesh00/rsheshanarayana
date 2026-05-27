@@ -16,4 +16,6 @@ Cross-domain evaluations further demonstrated KD's adaptability, where embedding
 
 *Featured as a [Frontispiece](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/advs.202570174) in Advanced Science (2025).*
 
+*Featured in the [Cornell Chronicle](https://news.cornell.edu/stories/2025/05/smarter-faster-ai-models-explored-molecular-materials-discovery).*
+
 {% cite sheshanarayana2025kd %}
