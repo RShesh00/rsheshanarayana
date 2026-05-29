@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true
   scrollable: true
-  limit: 5
+  limit: false
 
 latest_posts:
   enabled: false
