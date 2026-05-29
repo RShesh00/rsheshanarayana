@@ -18,4 +18,6 @@ Notably, equivariant models and learned potential energy surfaces offer physical
 
 *Featured as an [Inside Front Cover](https://pubs.rsc.org/en/content/articlelanding/2025/dd/d5dd90038g) in Digital Discovery (2025).*
 
+*Featured in [Cornell Engineering News](https://www.duffield.cornell.edu/fengqi-you-paper-on-digital-discovery-cover/).*
+
 {% cite sheshanarayana2025mrl %}
