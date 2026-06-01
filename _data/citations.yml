@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-27'
+  last_updated: '2026-06-01'
 papers:
   Zhd0xIMAAAAJ:3fE2CSJIrl8C:
     citations: 6
@@ -17,14 +17,14 @@ papers:
     citations: 3
     title: 'Rethinking retrosynthesis: Curriculum learning reshapes transformer-based small-molecule reaction prediction'
     year: '2025'
-  Zhd0xIMAAAAJ:dhFuZR0502QC:
-    citations: 12
-    title: 'Molecular representation learning: cross-domain foundations and future Frontiers'
-    year: '2025'
-  Zhd0xIMAAAAJ:hqOjcs7Dif8C:
-    citations: 4
+  Zhd0xIMAAAAJ:ZeXyd9-uunAC:
+    citations: 5
     title: Vehicle smoke synthesis and attention-based deep approach for vehicle smoke detection
     year: '2022'
+  Zhd0xIMAAAAJ:hC7cP41nSMkC:
+    citations: 15
+    title: 'Molecular representation learning: cross-domain foundations and future Frontiers'
+    year: '2025'
   Zhd0xIMAAAAJ:qxL8FJ1GzNcC:
     citations: 5
     title: A kinetic model for the direct thermal liquefaction of pine wood
