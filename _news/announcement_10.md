@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Rahul passed his A-exam [admission to candidacy exam]!
+🎉 Rahul passed his PhD candidacy exam [A-exam]!
