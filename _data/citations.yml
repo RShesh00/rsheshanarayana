@@ -1,6 +1,10 @@
 metadata:
-  last_updated: '2026-06-01'
+  last_updated: '2026-06-10'
 papers:
+  Zhd0xIMAAAAJ:-f6ydRqryjwC:
+    citations: 17
+    title: 'Molecular representation learning: cross-domain foundations and future Frontiers'
+    year: '2025'
   Zhd0xIMAAAAJ:3fE2CSJIrl8C:
     citations: 6
     title: 'Knowledge distillation for molecular property prediction: A scalability analysis'
@@ -21,10 +25,6 @@ papers:
     citations: 5
     title: Vehicle smoke synthesis and attention-based deep approach for vehicle smoke detection
     year: '2022'
-  Zhd0xIMAAAAJ:hC7cP41nSMkC:
-    citations: 15
-    title: 'Molecular representation learning: cross-domain foundations and future Frontiers'
-    year: '2025'
   Zhd0xIMAAAAJ:qxL8FJ1GzNcC:
     citations: 5
     title: A kinetic model for the direct thermal liquefaction of pine wood
