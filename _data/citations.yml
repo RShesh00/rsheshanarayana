@@ -1,14 +1,6 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-06-15'
 papers:
-  Zhd0xIMAAAAJ:-f6ydRqryjwC:
-    citations: 17
-    title: 'Molecular representation learning: cross-domain foundations and future Frontiers'
-    year: '2025'
-  Zhd0xIMAAAAJ:3fE2CSJIrl8C:
-    citations: 6
-    title: 'Knowledge distillation for molecular property prediction: A scalability analysis'
-    year: '2025'
   Zhd0xIMAAAAJ:MXK_kJrjxJIC:
     citations: 3
     title: Data-driven massive reaction networks reveal new pathways underlying catalytic CO2 hydrogenation
@@ -25,6 +17,14 @@ papers:
     citations: 5
     title: Vehicle smoke synthesis and attention-based deep approach for vehicle smoke detection
     year: '2022'
+  Zhd0xIMAAAAJ:hFOr9nPyWt4C:
+    citations: 18
+    title: 'Molecular representation learning: cross-domain foundations and future Frontiers'
+    year: '2025'
+  Zhd0xIMAAAAJ:mB3voiENLucC:
+    citations: 7
+    title: 'Knowledge distillation for molecular property prediction: A scalability analysis'
+    year: '2025'
   Zhd0xIMAAAAJ:qxL8FJ1GzNcC:
     citations: 5
     title: A kinetic model for the direct thermal liquefaction of pine wood
