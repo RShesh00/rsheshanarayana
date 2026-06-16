@@ -14,6 +14,6 @@ This work develops a **machine learning framework** to predict formation probabi
 
 The trained models accurately predict nanopore probabilities and formation times with **R² values of 0.97 and 0.95**, respectively, on the test set. **SHAP-based feature importance** analysis provides physical insight into the working of the model, revealing the role played by the various structural features in modulating nanopore formation. Overall, this work provides a solid foundation for experimental studies to manipulate nanopore sizes and shapes and for theoretical studies to consider realistic nanopore structures.
 
-*Selected as an [Editor's Pick](https://pubs.aip.org/aip/jcp/article-abstract/156/20/204703/2841444/) in The Journal of Chemical Physics (2022).*
+*Selected as **Editor's Pick** in The Journal of Chemical Physics (2022).*
 
 {% cite sheshanarayana2022nanopore %}
