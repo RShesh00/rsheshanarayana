@@ -457,7 +457,7 @@ third_party_libraries:
     version: "5.5.0"
   google_fonts:
     url:
-      fonts: "https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&display=swap"
+      fonts: # using system font (Helvetica), no external font needed
   highlightjs:
     integrity:
       css:
