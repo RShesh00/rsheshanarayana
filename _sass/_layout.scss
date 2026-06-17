@@ -4,12 +4,22 @@
 
 @use "variables" as v;
 
+html {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1.25rem;
+}
+
 body {
   padding-bottom: 70px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 1.25rem;
+  font-family: inherit;
+  font-size: inherit;
+
+  h1 { font-size: 2rem; }
+  h2 { font-size: 1.6rem; }
+  h3 { font-size: 1.35rem; }
+  h4, h5, h6 { font-size: 1.15rem; }
 
   h1,
   h2,
@@ -17,6 +27,7 @@ body {
   h4,
   h5,
   h6 {
+    font-family: inherit;
     scroll-margin-top: 66px;
   }
 }
