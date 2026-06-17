@@ -22,6 +22,18 @@ $purple-color: #b509ac !default;
 $light-purple-color: color.adjust($purple-color, $lightness: 25%);
 $botanical-green: #2d6a4f !default;
 $botanical-sage: #74c69d !default;
+
+// Custom surface & text palette
+$warm-bg: #f8f6f1 !default;
+$warm-card-bg: #f0ede6 !default;
+$warm-text: #1c1917 !default;
+$warm-text-light: #78716c !default;
+$warm-footer-bg: #2c2825 !default;
+$dark-bg: #18181b !default;
+$dark-card-bg: #1f1e1c !default;
+$dark-text: #e7e5df !default;
+$dark-text-light: #a8a29e !default;
+
 $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
 $yellow-color: #efcc00 !default;
