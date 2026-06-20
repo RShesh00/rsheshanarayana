@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "PhD Researcher in Systems Engineering at Cornell University.",
+          description: "PhD Candidate in Systems Engineering at Cornell University.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
