@@ -23,13 +23,13 @@ $light-purple-color: color.adjust($purple-color, $lightness: 25%);
 $botanical-green: #2d6a4f !default;
 $botanical-sage: #74c69d !default;
 
-// Custom surface & text palette — Lavender
-$warm-bg: #e5eaf5 !default;
-$warm-card-bg: #d8d2ee !default;
-$warm-text: #2d2f3e !default;
-$warm-text-light: #6b6f8a !default;
-$warm-footer-bg: #494d5f !default;
-$warm-accent: #845bb3 !default;
+// Custom surface & text palette — Dark Slate
+$warm-bg: #494d5f !default;
+$warm-card-bg: #3d4154 !default;
+$warm-text: #e5eaf5 !default;
+$warm-text-light: #d0bdf4 !default;
+$warm-footer-bg: #2d3040 !default;
+$warm-accent: #a0d2eb !default;
 $dark-bg: #18181b !default;
 $dark-card-bg: #1f1e1c !default;
 $dark-text: #e7e5df !default;
