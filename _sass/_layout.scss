@@ -63,3 +63,27 @@ body.sticky-bottom-footer {
 *****************************************************************************/
 
 // TODO: redefine projects layout.
+
+/******************************************************************************
+ * CV & News — ensure global text color applies to all elements
+ ******************************************************************************/
+
+.cv {
+  td,
+  th {
+    color: var(--global-text-color);
+  }
+
+  .card,
+  .list-group-item {
+    color: var(--global-text-color);
+    background-color: var(--global-card-bg-color);
+  }
+}
+
+.news {
+  td,
+  th {
+    color: var(--global-text-color);
+  }
+}
