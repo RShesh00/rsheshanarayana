@@ -16,7 +16,7 @@ While previous reviews have largely centered on GNNs and generative models, this
 
 Notably, equivariant models and learned potential energy surfaces offer physically consistent, geometry-aware embeddings that extend beyond static graphs. By integrating insights across domains, this review equips cheminformatics and materials science communities with a forward-looking synthesis of methodological innovations. Ultimately, advances in pretraining, hybrid representations, and differentiable modeling are poised to accelerate progress in drug discovery, materials design, and sustainable chemistry.
 
-*Published in Digital Discovery (2025) — [[Paper]](https://pubs.rsc.org/dd/article/4/9/2298/889072/Molecular-representation-learning-cross-domain). Featured as an [Inside Front Cover](https://pubs.rsc.org/en/content/articlelanding/2025/dd/d5dd90038g).*
+*Featured as an [Inside Front Cover](https://pubs.rsc.org/en/content/articlelanding/2025/dd/d5dd90038g) in Digital Discovery (2025).*
 
 *Featured in [Cornell Engineering News](https://www.duffield.cornell.edu/fengqi-you-paper-on-digital-discovery-cover/).*
 
