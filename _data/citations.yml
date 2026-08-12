@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-08-12'
 papers:
   Zhd0xIMAAAAJ:HDshCWvjkbEC:
-    citations: 24
+    citations: 25
     title: 'Molecular representation learning: cross-domain foundations and future Frontiers'
     year: '2025'
   Zhd0xIMAAAAJ:MXK_kJrjxJIC:
@@ -13,18 +13,18 @@ papers:
     citations: 11
     title: 'Tailoring nanoporous graphene via machine learning: Predicting probabilities and formation times of arbitrary nanopore shapes'
     year: '2022'
-  Zhd0xIMAAAAJ:R3hNpaxXUhUC:
-    citations: 4
-    title: 'Rethinking retrosynthesis: Curriculum learning reshapes transformer-based small-molecule reaction prediction'
-    year: '2025'
   Zhd0xIMAAAAJ:TQgYirikUcIC:
-    citations: 7
+    citations: 8
     title: 'Knowledge distillation for molecular property prediction: A scalability analysis'
     year: '2025'
   Zhd0xIMAAAAJ:ZeXyd9-uunAC:
     citations: 5
     title: Vehicle smoke synthesis and attention-based deep approach for vehicle smoke detection
     year: '2022'
+  Zhd0xIMAAAAJ:e5wmG9Sq2KIC:
+    citations: 5
+    title: 'Rethinking retrosynthesis: Curriculum learning reshapes transformer-based small-molecule reaction prediction'
+    year: '2025'
   Zhd0xIMAAAAJ:qxL8FJ1GzNcC:
     citations: 5
     title: A kinetic model for the direct thermal liquefaction of pine wood
