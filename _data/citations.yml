@@ -1,10 +1,6 @@
 metadata:
-  last_updated: '2026-08-12'
+  last_updated: '2026-08-19'
 papers:
-  Zhd0xIMAAAAJ:HDshCWvjkbEC:
-    citations: 25
-    title: 'Molecular representation learning: cross-domain foundations and future Frontiers'
-    year: '2025'
   Zhd0xIMAAAAJ:MXK_kJrjxJIC:
     citations: 3
     title: Data-driven massive reaction networks reveal new pathways underlying catalytic CO2 hydrogenation
@@ -13,6 +9,10 @@ papers:
     citations: 11
     title: 'Tailoring nanoporous graphene via machine learning: Predicting probabilities and formation times of arbitrary nanopore shapes'
     year: '2022'
+  Zhd0xIMAAAAJ:RHpTSmoSYBkC:
+    citations: 28
+    title: 'Molecular representation learning: cross-domain foundations and future Frontiers'
+    year: '2025'
   Zhd0xIMAAAAJ:TQgYirikUcIC:
     citations: 8
     title: 'Knowledge distillation for molecular property prediction: A scalability analysis'
