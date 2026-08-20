@@ -219,6 +219,9 @@
       {% if entry.news %}
         <a href="{{ entry.news }}" class="btn btn-sm z-depth-0" role="button">News</a>
       {% endif %}
+      {% if entry.cover %}
+        <a href="{{ entry.cover }}" class="btn btn-sm z-depth-0" role="button">Cover</a>
+      {% endif %}
       {% if entry.html %}
         {% if entry.html contains '://' %}
           <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
