@@ -16,4 +16,6 @@ DFT validation at the M06-2X/def2-TZVP level on randomly sampled novel generatio
 
 Spin-delocalization analysis further reveals a statistically significant correlation between radical localization and bond strength across the DFT-validated set. Motivated by PFAS remediation, the framework is extensible to higher-energy C-F bond strength regimes.
 
+*Published in [Digital Discovery](https://pubs.rsc.org/dd/article/doi/10.1039/D6DD00228E/1292472/Harnessing-homolytic-bond-energetics-to-steer) (2026).*
+
 {% cite sheshanarayana2026bde %}
