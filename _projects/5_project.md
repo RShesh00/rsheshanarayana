@@ -14,6 +14,6 @@ Starting from a dataset of 152 elementary CO₂ reduction reactions, the approac
 
 A key ML-enabled discovery - validated post-facto - establishes the crucial roles of **intermolecular hydrogen transfer and hydrogenation by molecular hydrogen**, mechanisms that would be missed by smaller-scale analyses. The proposed strategy for comprehensively modeling complex catalytic mechanisms will significantly advance catalysis research and carbon conversion processes.
 
-*Accepted in principle at Nature Communications.*
+*Published in [Nature Communications](https://doi.org/10.1038/s41467-026-77080-4) (2026).*
 
 {% cite verma2025co2 %}
