@@ -1,6 +1,10 @@
 metadata:
-  last_updated: '2026-08-19'
+  last_updated: '2026-08-21'
 papers:
+  Zhd0xIMAAAAJ:4JMBOYKVnBMC:
+    citations: 6
+    title: A kinetic model for the direct thermal liquefaction of pine wood
+    year: '2025'
   Zhd0xIMAAAAJ:MXK_kJrjxJIC:
     citations: 3
     title: Data-driven massive reaction networks reveal new pathways underlying catalytic CO2 hydrogenation
@@ -24,8 +28,4 @@ papers:
   Zhd0xIMAAAAJ:e5wmG9Sq2KIC:
     citations: 5
     title: 'Rethinking retrosynthesis: Curriculum learning reshapes transformer-based small-molecule reaction prediction'
-    year: '2025'
-  Zhd0xIMAAAAJ:qxL8FJ1GzNcC:
-    citations: 5
-    title: A kinetic model for the direct thermal liquefaction of pine wood
     year: '2025'
