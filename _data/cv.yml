@@ -115,7 +115,7 @@ cv:
     Skills:
       - name: Scientific Domains
         icon: fa-solid fa-flask
-        keywords: "Thermochemistry, reaction modeling, polymer science, nanoporous materials, confined electrolytes, statistical mechanics, computational fluid dynamics, linear/non-linear programming, goal programming, control theory"
+        keywords: "Thermochemistry, reaction modeling, polymer science, nanoporous materials, confined electrolytes, statistical mechanics"
 
       - name: Computational Tools
         icon: fa-solid fa-computer
