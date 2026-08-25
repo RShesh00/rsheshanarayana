@@ -131,6 +131,13 @@ cv:
 
     Teaching:
       - company: Cornell University
+        position: "Instructional Support (Computational Optimization)"
+        location: Ithaca, NY
+        start_date: 2026-08
+        end_date: Present
+        summary: Managed project teams, graded homework assignments, and provided clarifications to students on course concepts.
+
+      - company: Cornell University
         position: "Graduate Teaching Assistant (Investigative Biology Lab)"
         location: Ithaca, NY
         start_date: 2023-08
@@ -143,10 +150,3 @@ cv:
         start_date: 2023-02
         end_date: 2023-05
         summary: Guided students through lab experiments ranging in topics from electricity and magnetism to optics.
-
-      - company: Cornell University
-        position: "Instructional Support (Computational Optimization)"
-        location: Ithaca, NY
-        start_date: 2026-08
-        end_date: 2026-12
-        summary: Managed project teams, graded homework assignments, and provided clarifications to students on course concepts.
