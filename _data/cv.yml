@@ -23,7 +23,7 @@ cv:
     Education:
       - institution: Cornell University
         location: Ithaca, NY
-        url: https://www.cornell.edu/
+        url: https://www.duffield.cornell.edu/sys/systems-phd/
         area: Systems Engineering
         studyType: Doctor of Philosophy (PhD)
         start_date: 2024-08
@@ -34,7 +34,7 @@ cv:
 
       - institution: Cornell University
         location: Ithaca, NY
-        url: https://www.cornell.edu/
+        url: https://www.duffield.cornell.edu/cbe/ms-program/
         area: Chemical Engineering
         studyType: Master of Science (MS)
         start_date: 2022-08
