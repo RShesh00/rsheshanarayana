@@ -1,31 +1,35 @@
 metadata:
-  last_updated: '2026-08-21'
+  last_updated: '2026-08-26'
 papers:
   Zhd0xIMAAAAJ:4JMBOYKVnBMC:
     citations: 6
     title: A kinetic model for the direct thermal liquefaction of pine wood
     year: '2025'
-  Zhd0xIMAAAAJ:MXK_kJrjxJIC:
-    citations: 3
-    title: Data-driven massive reaction networks reveal new pathways underlying catalytic CO2 hydrogenation
-    year: '2025'
   Zhd0xIMAAAAJ:QIV2ME_5wuYC:
     citations: 11
     title: 'Tailoring nanoporous graphene via machine learning: Predicting probabilities and formation times of arbitrary nanopore shapes'
     year: '2022'
-  Zhd0xIMAAAAJ:RHpTSmoSYBkC:
-    citations: 28
-    title: 'Molecular representation learning: cross-domain foundations and future Frontiers'
-    year: '2025'
-  Zhd0xIMAAAAJ:TQgYirikUcIC:
-    citations: 8
-    title: 'Knowledge distillation for molecular property prediction: A scalability analysis'
-    year: '2025'
   Zhd0xIMAAAAJ:ZeXyd9-uunAC:
     citations: 5
     title: Vehicle smoke synthesis and attention-based deep approach for vehicle smoke detection
     year: '2022'
+  Zhd0xIMAAAAJ:bEWYMUwI8FkC:
+    citations: 8
+    title: 'Knowledge distillation for molecular property prediction: A scalability analysis'
+    year: '2025'
   Zhd0xIMAAAAJ:e5wmG9Sq2KIC:
     citations: 5
     title: 'Rethinking retrosynthesis: Curriculum learning reshapes transformer-based small-molecule reaction prediction'
+    year: '2025'
+  Zhd0xIMAAAAJ:iH-uZ7U-co4C:
+    citations: 3
+    title: Data-driven massive reaction networks reveal mechanistic pathways underlying catalytic CO2 hydrogenation
+    year: '2026'
+  Zhd0xIMAAAAJ:j3f4tGmQtD8C:
+    citations: 0
+    title: Harnessing homolytic bond energetics to steer inverse radical design
+    year: '2026'
+  Zhd0xIMAAAAJ:r0BpntZqJG4C:
+    citations: 30
+    title: 'Molecular representation learning: cross-domain foundations and future Frontiers'
     year: '2025'
