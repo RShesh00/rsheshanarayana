@@ -20,4 +20,6 @@ Spin-delocalization analysis further reveals a statistically significant correla
 
 *Featured as a [Front Cover](https://pubs.rsc.org/dd/article/5/11/4607/1379924/Front-cover) in Digital Discovery (2026).*
 
+*Featured in [Cornell Engineering News](https://www.duffield.cornell.edu/you-research-featured-in-digital-discovery/).*
+
 {% cite sheshanarayana2026bde %}
